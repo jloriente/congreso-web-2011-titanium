@@ -1,0 +1,56 @@
+<html>
+<head>
+    <style>
+        body {
+            color: white;
+            background-color: black;
+            font-size: 14pt;
+            font-family: Helvetica, sans-serif;
+            padding: 0.6em;
+            background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#111), to(#555));
+        }
+        a {
+            color: white;
+            font-weight: bold;
+        }
+        div.logo {
+            text-align: right;
+            padding: 0.5em -20px 0.5em 0;
+            margin-right: -20px;
+        }
+        p {
+            font-size: 11pt;
+            text-align: right;
+        }
+        p.footer {
+            font-style: italic;
+            text-align: right;
+            margin-top: 5em;
+        }
+    </style>
+    <script>
+        function external( a ) {
+            Ti.App.fireEvent('app:external-href', { href: a.href } );
+            return false;
+        }
+    </script>
+</head>
+<body>
+    <p>
+        This app was conceived and designed by
+    </p>
+    <div class="logo">
+        <a href="http://doit-mobile.com/" onclick="return external(this)"><img src="doit-mobile-logo.png"/></a>
+    </div>
+    <p>
+        and developed and published by
+    </p>
+    <div class="logo">
+        <a href="http://innerfunction.com/" onclick="return external(this)"><img src="innerfunction-logo.png"/></a>
+    </div>
+    <p class="footer">
+        &copy; 2011 InnerFunction Ltd.
+    </p>
+</body>
+</html>
+

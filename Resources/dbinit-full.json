@@ -1,0 +1,679 @@
+{
+    "stages": {
+        "S1": {
+            "name": "Auditorio",
+            "stage": true
+        },
+        "S2": {
+            "name": "S2",
+            "stage": true
+        },
+        "S3": {
+            "name": "S3",
+            "stage": true
+        },
+        "S4": {
+            "name": "S4",
+            "stage": true
+        }
+    },
+    "categories": [
+        {
+            "id": "sm",
+            "name": "Social Media",
+            "icon": "/images/categoties/sm",
+            "color": "#fffff",
+            "description": "Dentro del Congreso Web hay más de 20 horas de Social Media, lo que lo convierte en un Congreso de Social Media dentro del Congreso Web."
+        },
+        {
+            "id": "mobile",
+            "name": "Dispositivos Moviles",
+            "icon": "/images/categoties/mobile",
+            "color": "#fffff",
+            "description": "En Congreso Web tendremos diferentes talleres y ponencias sobre dispositivos móviles, por ejemplo se explicarán las últimas aplicaciones para los nuevos dispositivos, se mostrará como sacar provecho de la geolocalización. Además te enseñaremos como realizar tus propias aplicaciones sin tener conocimientos de programación con App Inventor, y si tienes conocimientos a programar para Android y Iphone."
+        },
+        {
+            "id": "SEO",
+            "name": "SEO",
+            "icon": "/images/categoties/seo",
+            "color": "#fffff",
+            "description": ""
+        },
+        {
+            "id": "marketing",
+            "name": "Marketing Online",
+            "icon": "/images/categoties/marketing",
+            "color": "#fffff",
+            "description": ""
+        },
+        {
+            "id": "devel",
+            "name": "Development & Tools",
+            "icon": "/images/categoties/devel",
+            "color": "#fffff",
+            "description": ""
+        },
+        {
+            "id": "sales",
+            "name": "Venta Online",
+            "icon": "/images/categoties/sales",
+            "color": "#fffff",
+            "description": ""
+        },
+        {
+            "id": "entrepreneur",
+            "name": "Emprender",
+            "icon": "/images/categoties/entrepreneur",
+            "color": "#fffff",
+            "description": ""
+        },
+        {
+            "id": "networking",
+            "name": "Networking",
+            "icon": "/images/categoties/sm",
+            "color": "#fffff",
+            "description": ""
+        }
+    ],
+    "events": [
+        {
+            "name": "Factores de posicionamiento en Google",
+            "stage": "S1",
+            "date": "20110603",
+            "time": "16:00",
+            "speaker": [
+                "Julian Sanchez"
+            ],
+            "category": [
+                "seo",
+                "entrepreneur"
+            ],
+            "banner": "act14.png",
+            "info": "Julián Sánchez nos enseñará los factores de posicionamiento en Google, asimismo nos indicará de que manera se puede potenciar el posicionamiento en Google on-page y off-page, es decir, a través la optimización para buscadores de tu página web o con ayuda de otros portales. En los últimos meses Google está actualizando su algoritmo y la socialización del buscador se está llevando a cabo, además Google Panda ha puesto en jaque a los webmasters de buscadores específicos o directorios. También hay factores que ven alterado su peso en el posicionamiento de una página web, como por ejemplo el title de la página."
+        },
+        {
+            "name": "Motivación 2.0",
+            "stage": "S1",
+            "date": "20110603",
+            "time": "17:30",
+            "speaker": [
+                "Andres Karp"
+            ],
+            "category": [
+                "entrepreneur"
+            ],
+            "banner": "act14.png",
+            "info": "Andrés Karp nos motivará para emprender en los negocios online, aplicaciones para las web o los móviles pero por encima de todo, el emprendimiento en las redes sociales."
+        },
+        {
+            "name": "Los contenidos en Internet: los Social Media y los medios de comunicación",
+            "stage": "S1",
+            "date": "20110603",
+            "time": "18:20",
+            "speaker": [
+                "Julian Sanchez"
+            ],
+            "banner": "act14.png",
+            "info": "Mesa redonda sobre el presente y el futuro de la comunicación en la red. ¿Todos los contenidos son válidos? ¿Puede sustituir Twitter a los portales de noticias? ¿Futuro de los medios de comunicación en Internet?Participarán periodistas de ABC y Heraldo y usuarios de redes sociales. En los próximos días os daremos más información sobre esta mesa redonda que se realizará el viernes a las 18:20 en el auditorio del WTCZ."
+        },
+        {
+            "name": "Emprender con éxito en Intenet",
+            "stage": "S1",
+            "date": "20110603",
+            "time": "19:30",
+            "speaker": [
+                "Carlos Blanco"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Premio Emprendedores Sociales",
+            "stage": "S1",
+            "date": "20110603",
+            "time": "20:30",
+            "speaker": [
+                ""
+            ],
+            "banner": "act14.png",
+            "info": "Los proyectos que deseen participar en la convocatoria del Concurso JEI Emprendedores Sociales deberán rellenar el cuestionario disponible en la página web de Joven Empresa Innovadora. Uno de los requisitos imprescindibles para participar es que debe ser un proyecto ya desarrollado, como mínimo, con presencia ya online (no se admiten conceptos o ideas, debe haber un desarrollo web ya realizado). Se pretende reconocer la creación de proyectos en Internet que intentan mejorar el entorno o cubrir una necesidad social. Entre las inscripciones recibidas, la organización elegirá 3 proyectos que participarán en la mesa redonda sobre Emprendedores Sociales a través de Internet que se celebrará el viernes 3 de junio, de 19:30 a 20:15 h. en el Congreso Web. Ver programa. En el acto, el ganador del premio se seleccionará mediante la valoración del público asistente."
+        },
+        {
+            "name": "Taller: Fundamentos de Social Media para empresas",
+            "stage": "S2",
+            "date": "20110603",
+            "time": "16:00",
+            "speaker": [
+                "Gabriel del Molino"
+            ],
+            "banner": "act14.png",
+            "info": "Gabriel del Molino nos explicará los fundamentos de las redes sociales, desde la confección de la estrategia empresarial en los Social Media, pasando por la elección de las redes sociales a utilizar para llevar a cabo la estrategia, para terminar explicando el funcionamiento de las redes sociales más importantes, como Twitter o Facebook y cómo las empresas manejan estás redes sociales."
+        },
+        {
+            "name": "Iniciador: Actividad Networking",
+            "stage": "S2",
+            "date": "20110603",
+            "time": "18:20",
+            "speaker": [
+                "Iniciador"
+            ],
+            "banner": "act14.png",
+            "info": "Iniciador es una comunidad de emprendedores sin ánimo de lucro que tiene como propósito de fomentar y facilitar el emprendizaje. Para conseguirlo se organizan actividades de emprendedores para emprendedores, donde puedan presentar sus ideas y compartir conocimiento y experiencias, de este modo se fomentan las bondades de la cultura empresarial. Se trata de un evento mensual organizado en distintas ciudades cuyo objetivo es reunir a emprendedores y gente activa en un foro donde puedan conocerse y compartir sus experiencias. El evento comienza con una breve presentación de cada uno de los asistentes. Cuando todos nos conocemos se realiza una charla o sesión de trabajo en común sobre un tema concreto relacionado con el emprendizaje, esta sesión está dirigida por un emprendedor consolidado. Para finalizar, tiene lugar una sesión de networking donde se puede charlar con todos los asistentes para conocerse mejor, sobre búsqueda de financiación, planes de negocio, promoción de un producto, proveedores de servicios, etc… "
+        },
+        {
+            "name": "¿Qué puede hacer un community manager por tu empresa?",
+            "stage": "S2",
+            "date": "20110603",
+            "time": "19:30",
+            "speaker": [
+                "Pedro Sánchez Castrejón"
+            ],
+            "banner": "act14.png",
+            "info": "Pedro Sánchez Castrejón llevará a cabo este taller el viernes 3 junio a las 19:30. Ver programa. Hoy en día muchas empresas se pierden en la esfera de los Social Media hasta el punto de no saber si personalizar o no sus cuentas con la imagen directa de sus Community Manager; una decisión que a priori resulta fácil, pero que, sin duda, requiere un análisis más profundo. Según 101, es importante presentar siempre a estos nuevos profesionales de las redes en el perfil de la marca. Pero… ¿Qué peligros corre y qué beneficios le proporciona presentar a su Community Manager a su comunidad?"
+        },
+        {
+            "name": "Taller: Herramientas de monitorizacion en los social media",
+            "stage": "S3",
+            "date": "20110603",
+            "time": "16:00",
+            "speaker": [
+                "Antonio Garcia"
+            ],
+            "banner": "act14.png",
+            "info": "Desplegando una estrategia de escucha activa en mi organización. Casos reales en organizaciones e instituciones. El objetivo del taller es comprender las oportunidades que nos presentan las redes sociales, y ayudar a definir una estrategia de escucha y participación en las mismas."
+        },
+        {
+            "name": "Medición Web. ¿Cómo saber si mi campaña es efectiva?",
+            "stage": "S3",
+            "date": "20110603",
+            "time": "18:20",
+            "speaker": [
+                "Rosario Berrogo"
+            ],
+            "banner": "act14.png",
+            "info": "Rosario Borrego nos explicará cómo medir las campañas que llevamos a cabo. La medición puede presentarnos datos que no expliquen exactamente la realidad, por tanto es necesario saber interpretar la información que nos arrojan estos datos."
+        },
+        {
+            "name": "Taller: Iniciación a Google Analytics",
+            "stage": "S3",
+            "date": "20110603",
+            "time": "19:30",
+            "speaker": [
+                "Guillermo Vilarroig"
+            ],
+            "banner": "act14.png",
+            "info": "En este taller Guillermo Vilarroig revisará cuál es el proceso de implementación de Google Analytics. Se trata de conocer qué reflexiones hay que hacer antes y después de implementar el código de Google Analytics en las páginas web de nuestros clientes. Desde la recogida de información hasta la explotación de los datos. Para ello revisaremos los conceptos básicos y las principales funcionalidades. La finalidad es la de asegurar la calidad de una implementación básica y conocer el potencial de un implementación avanzada."
+        },
+        {
+            "name": "Taller: Experiencia de Usuario y usabilidad",
+            "stage": "S4",
+            "date": "20110603",
+            "time": "16:00",
+            "speaker": [
+                "Daniel Torres Burriel"
+            ],
+            "banner": "act14.png",
+            "info": "Daniel Torres Burriel es uno de los mayores expertos en usabilidad y experiencia de usuario de España y del mundo. Nos mostrará cómo un usuario accede a un web, navega a través de sus páginas y abandona la página. El objetivo es poder aumentar las ventas, aumentar la duración de la visita, o transvasar el mayor número de visitas de una web a otra. La facilidad que tenga el usuario para encontrar lo que busca representa un objetivo para toda web. Así un usuario contento es un usuario que volverá a tu web. En el caso de un tienda virtual representará más ventas en el futuro. En el caso de un blog más visitas en el futuro. Sin contar el efecto boca-oreja o boca a boca que produce un cliente satisfecho."
+        },
+        {
+            "name": "Marketing online para el sector industrial",
+            "stage": "S4",
+            "date": "20110603",
+            "time": "18:20",
+            "speaker": [
+                "Guillermo Vilarroig"
+            ],
+            "banner": "act14.png",
+            "info": "Dentro de la vorágine de la evolución online de los últimos años, el sector industrial ha quedado un paso atrás debido a sus reticencias a este canal. El gran problema es el desconocimiento por parte de directores y empresarios industriales de las posibilidades de Internet como canal de venta y sobre todo dentro del contexto de la internacionalización. La escasa atención e inversión en su presencia online hace imposible su uso efectivo. En esta charla revisaremos el estudio realizado por Overalia sobre el conjunto de empresas que forman la asociación de “Máquina Herramienta” (facturó en su conjunto 1.100 millones de € en el 2010) y realizaremos una reflexión en voz alta de cómo el sector industrial en general, puede beneficiarse con un plan enfocado a vender más y mejor. Un negocio redondo para quien lo practica."
+        },
+        {
+            "name": "Taller: Internacionaliza tu proyecto web",
+            "stage": "S4",
+            "date": "20110603",
+            "time": "19:30",
+            "speaker": [
+                "Carmer Urbano"
+            ],
+            "banner": "act14.png",
+            "info": "Carmen Urbano nos hablará de estrategias y herramientas en la internacionalización de un proyecto web, tanto para la comunicación a través de la web, como en el Social Media y otras herramientas del marketing online."
+        },
+        {
+            "name": "Dispositivos móviles y geolocalización",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "9:30",
+            "speaker": [
+                "Jorge Pintado"
+            ],
+            "banner": "act14.png",
+            "info": "Jorge Pintado nos hablará de el mercado de los dispositivos móviles. Como las aplicaciones suponen un negocio muy rentable, aún cuando estas son gratuitas. Por otro lado, nos introducirá en el mundo de la geolocalización."
+        },
+        {
+            "name": "Geoposicionamiento",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "10:00",
+            "speaker": [
+                "Gersón Beltrán"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "SEOcial Media",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "10:30",
+            "speaker": [
+                "José Llinares"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Inbound Marketing y SEO para desarrolladores",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "11:00",
+            "speaker": [
+                "Miguel Orense"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "SEO en los buscadores de Facebook, Twitter",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "12:30",
+            "speaker": [
+                "Javier Lorente"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Escribir para el SEO y las personas",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "13:00",
+            "speaker": [
+                "Señor Muñoz"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Evento SEO: Últimos cambios en Google y el SEO",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "13:30",
+            "speaker": [
+                ""
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Social Media Business",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "16:00",
+            "speaker": [
+                "Juan Merodio"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Social Commerce",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "16:45",
+            "speaker": [
+                "Alejandro Fanjul",
+                "Enrique Andreu"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Gestión de la reputación online en las redes sociales",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "17:30",
+            "speaker": [
+                "Victor Puig"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Geolocalización Social Media: Foursquare y Facebook places",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "18:45",
+            "speaker": [
+                "Tomás Rufino"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Estrategias de marketing en Facebook",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "19:30",
+            "speaker": [
+                "Ismael El-Qudsi"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Mesa Redonda : Social Media Marketing",
+            "stage": "S1",
+            "date": "20110604",
+            "time": "20:15",
+            "speaker": [
+                "Ponentes SM"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Presentación de la Asociación de Social Media de Aragón",
+            "stage": "S2",
+            "date": "20110604",
+            "time": "09:30",
+            "speaker": [
+                ""
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Cómo digitalizar una marca",
+            "stage": "S2",
+            "date": "20110604",
+            "time": "10:00",
+            "speaker": [
+                "Elvira Aldaz"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Leyes que nos afectan en el Social Media",
+            "stage": "S2",
+            "date": "20110604",
+            "time": "11:00",
+            "speaker": [
+                "Miguel Ángel Martín",
+                "Ana Cristina Inés"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Taller: Marca Personal en los social media",
+            "stage": "S2",
+            "date": "20110604",
+            "time": "12:30",
+            "speaker": [
+                "Miguel Ángel Martín"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "",
+            "stage": "S2",
+            "date": "20110604",
+            "time": "18:20",
+            "speaker": [
+                ""
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Clinica SEO",
+            "stage": "S2",
+            "date": "20110604",
+            "time": "16:00",
+            "speaker": [
+                "Miguel Pascual",
+                "Arturo Marimon",
+                "Jorge González",
+                "Pedro Martinez"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "SEO y la web semántica",
+            "stage": "S2",
+            "date": "20110604",
+            "time": "17:30",
+            "speaker": [
+                "Lakil Essady"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Taller de Estrategias en Adwords",
+            "stage": "S2",
+            "date": "20110604",
+            "time": "18:45",
+            "speaker": [
+                "Marcos Sicilia"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Seo y usabilidad, caso práctico: Haztucesta",
+            "stage": "S2",
+            "date": "20110604",
+            "time": "20:15",
+            "speaker": [
+                "Cristóbal López"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Keynote: Las razones para elegir Magento en un proyecto de ecommerce:",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "9:30",
+            "speaker": [
+                ""
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Taller: Gestiona tu negocio online",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "11:00",
+            "speaker": [
+                "Ana Fañanás",
+                "Moisés Martínez"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Elige una plataforma para emprender en el ecommerce,¿Cúal me conviene?",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "12:30",
+            "speaker": [
+                "Xavier Soriano"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "ASP.NET MVC3, la plataforma actual para construir aplicaciones web en entorno Microsoft/Windows",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "14:00",
+            "speaker": [
+                "Iván Loire"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Desarrollo de una startup y exposición de proyectos",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "17:30",
+            "speaker": [
+                "Ángel Luis Quesada"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Taller: Leyes a cumplir en el ecommerce, ley de protección de datos, factura electrónica",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "18:45",
+            "speaker": [
+                "Diego Morteo",
+                "Javier Prenafeta"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "HTML y CSS3 : Ventajas y novedades.",
+            "stage": "S4",
+            "date": "20110604",
+            "time": "09:30",
+            "speaker": [
+                "Andrés Karp"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "Taller: Herramienta Appinventor: Programar aplicaciones para Android sin conocimientos previos",
+            "stage": "S4",
+            "date": "20110604",
+            "time": "18:20",
+            "speaker": [
+                "Jorge Pintado"
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "18:20",
+            "speaker": [
+                ""
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "18:20",
+            "speaker": [
+                ""
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "18:20",
+            "speaker": [
+                ""
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "18:20",
+            "speaker": [
+                ""
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "18:20",
+            "speaker": [
+                ""
+            ],
+            "banner": "act14.png",
+            "info": ""
+        },
+        {
+            "name": "",
+            "stage": "S3",
+            "date": "20110604",
+            "time": "18:20",
+            "speaker": [
+                ""
+            ],
+            "banner": "act14.png",
+            "info": ""
+        }
+    ],
+    "speakers": [
+        {
+            "id": "juliansanchez",
+            "name": "Julián Sánchez",
+            "banner": "act14.png",
+            "Info": "Ingeniero en Informática por la Universidad de Alicante. Julián Sánchez ha unido su pasión con su trabajo, centrando su carrera profesional en el mundo de internet con más de 5 años de experiencia en desarrollo web y SEO, trayectoria que lo ha llevado a su actual puesto como SEO Specialist en Nurun España.Ex presidente de la Asociación de Usuarios de Linux de Alicante, actualmente es el Manager Madrid de la Asociación Desarrolladores Web de España ADWE.Julián nos mostrará los conceptos básicos del SEO. Los aspectos más simples pero que deben estar presentes en nuestra mente si queremos optimizar un sitio existente o a la hora de plantear el desarrollo de un nuevo portal",
+            "twitter": "julian_sanchez",
+            "website": "http://www.jsanchez.es/"
+        },
+        {
+            "id": "andreskarp",
+            "name": "Andres Karp",
+            "banner": "act14.png",
+            "info": "CEO/Founder en Dinamiclab. Presidente de ADWE(Asociación Desarrolladores Web de España). Strategic planner en SocialAndTics. Lleva más de 10 años en el mundo del diseño y desarrollo web. Trabajando en varias Agencias Multimedia. Empezando por el puesto de diseñador gráfico hasta el de product manager que ocupa hoy en día en Dinamiclab, empresa de la que es CEO y Fundador. En donde intenta día a día llevar la simplicidad y usabilidad a los portales web y a los dispositivos móviles. Otra de las cosas que le apasionan es crear y compartir conocimiento, por lo que el año pasado creo SocialAndTics una empresa de Formación y Eventos Tecnológicos. Desde la cuál imparte formación a centros en Alicante, Valencia, Castellón, Madrid y Murcia. Además colabora en muchos eventos de grandes dimensiones organizándolos o llevando la comunicación online. Es presidente de la Asociación Desarrolladores Web de España ADWE, donde intenta que la comunidad de desarrolladores web a nivel nacional se una en un movimiento que traiga consigo más prestigio a esta profesión y la mejora permanente mediante la formación a todos los asociados. Pero, sobre todo, recalca que lo más importante es la familia y la pasión por su trabajo.",
+            "twitter": "andreskarp",
+            "website": "http://www.andreskarp.es/"
+        },
+        {
+            "id": "gabrieldelmolino",
+            "name": "Gabriel del Molino",
+            "banner": "act14.png",
+            "info": "Formador, consultor y asesor para empresas que quieren introducirse en la web 2.0 y las redes sociales. Fundador de CAMYNA (www.camyna.com), empresa dedicada a las NNTT. Organizador de eventos relacionados con las redes sociales (twitterllon y bloggellon)",
+            "twitter": "gmolino",
+            "website": "http://camyna.com/"
+        },
+        {
+            "id": "antoniogarcia",
+            "name": "Antonio Garcia Morte",
+            "banner": "act14.png",
+            "info": "Antonio García Morte es Ingeniero Electrónico y Máster de Comercio Internacional por ESIC, ha trabajado en consultoría en DMR Consulting (actual Everis) y el Grupo Z previamente a lanzar Cierzo Development, una empresa IT especializada en Social Media Marketing y tecnologías de recuperación de información. El año pasado Antonio recibió el premio Aster al mejor emprendedor de Aragón en el año 2009, es ponente habitual en foros y sesiones formativas relacionadas con la expendeduría, internet y las redes sociales. Antonio García Morte nos mostrará diferentes herramientas de monitorización de las redes sociales",
+            "twitter": "",
+            "website": ""
+        }
+    ]
+}
+

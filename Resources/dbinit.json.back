@@ -1,0 +1,132 @@
+{
+    "stages": {
+        "S1":   { "name": "Auditorio", "stage": true },
+        "S2":   { "name": "S2", "stage": true },
+        "S3":   { "name": "S3", "stage": true },
+        "S4":   { "name": "S4", "stage": true }
+    },
+    "categories" : [
+        {
+            "id" : "sm",
+            "name" : "Social Media",
+            "icon" : "/images/categoties/sm",
+            "color" : "#fffff",
+            "description" : "Dentro del Congreso Web hay más de 20 horas de Social Media, lo que lo convierte en un Congreso de Social Media dentro del Congreso Web."
+        },
+        {
+            "id" : "mobile",
+            "name" : "Dispositivos Moviles",
+            "icon" : "/images/categoties/mobile",
+            "color" : "#fffff",
+            "description" : "En Congreso Web tendremos diferentes talleres y ponencias sobre dispositivos móviles, por ejemplo se explicarán las últimas aplicaciones para los nuevos dispositivos, se mostrará como sacar provecho de la geolocalización. Además te enseñaremos como realizar tus propias aplicaciones sin tener conocimientos de programación con App Inventor, y si tienes conocimientos a programar para Android y Iphone."
+            },
+        {
+            "id": "SEO",
+            "name": "SEO",
+            "icon" : "/images/categoties/seo",
+            "color" : "#fffff",
+            "description": ""
+        },
+        {
+            "id" : "marketing",
+            "name" : "Marketing Online",
+            "icon" : "/images/categoties/marketing",
+            "color" : "#fffff",
+            "description" : ""
+        },
+        {
+            "id" : "devel",
+            "name" : "Development & Tools",
+            "icon" : "/images/categoties/devel",
+            "color" : "#fffff",
+            "description" : ""
+        },
+        {
+            "id" : "sales",
+            "name" : "Venta Online",
+            "icon" : "/images/categoties/sales",
+            "color" : "#fffff",
+            "description" : ""
+        },
+        {
+            "id" : "entrepreneur",
+            "name" : "Emprender",
+            "icon" : "/images/categoties/entrepreneur",
+            "color" : "#fffff",
+            "description" : ""
+        },
+        {
+            "id" : "networking",
+            "name" : "Networking",
+            "icon" : "/images/categoties/sm",
+            "color" : "#fffff",
+            "description" : ""
+        }
+    ],
+    "events": [
+        {
+            "name": "Factores de posicionamiento en Google",
+            "stage": "S1",
+            "date": "20110603",
+            "time": "16:00",
+            "speaker" : ["Julian Sanchez"],
+            "category" : ["seo", "entrepreneur"],
+            "banner": "act14.png",
+            "info" : "Julián Sánchez nos enseñará los factores de posicionamiento en Google, asimismo nos indicará de que manera se puede potenciar el posicionamiento en Google on-page y off-page, es decir, a través la optimización para buscadores de tu página web o con ayuda de otros portales. En los últimos meses Google está actualizando su algoritmo y la socialización del buscador se está llevando a cabo, además Google Panda ha puesto en jaque a los webmasters de buscadores específicos o directorios. También hay factores que ven alterado su peso en el posicionamiento de una página web, como por ejemplo el title de la página."
+        },
+        {
+            "name": "Motivación 2.0",
+            "stage": "S1",
+            "date": "20110603",
+            "time": "17:30",
+            "speaker" : ["Andres Karp"],
+            "category" : ["entrepreneur"],
+            "banner": "act14.png",
+            "info" : "Andrés Karp nos motivará para emprender en los negocios online, aplicaciones para las web o los móviles pero por encima de todo, el emprendimiento en las redes sociales."
+        },
+        {
+            "name": "Los contenidos en Internet: los Social Media y los medios de comunicación",
+            "stage": "S1",
+            "date": "20110603",
+            "time": "18:20",
+            "speaker" : ["Julian Sanchez"],
+            "banner": "act14.png",
+            "info" : "Mesa redonda sobre el presente y el futuro de la comunicación en la red. ¿Todos los contenidos son válidos? ¿Puede sustituir Twitter a los portales de noticias? ¿Futuro de los medios de comunicación en Internet?Participarán periodistas de ABC y Heraldo y usuarios de redes sociales. En los próximos días os daremos más información sobre esta mesa redonda que se realizará el viernes a las 18:20 en el auditorio del WTCZ."
+        }
+    ],
+    "speakers" : [
+        {
+            "id" : "juliansanchez",
+            "name" : "Julián Sánchez",
+            "banner" : "act14.png",
+            "Info" : "Ingeniero en Informática por la Universidad de Alicante. Julián Sánchez ha unido su pasión con su trabajo, centrando su carrera profesional en el mundo de internet con más de 5 años de experiencia en desarrollo web y SEO, trayectoria que lo ha llevado a su actual puesto como SEO Specialist en Nurun España.Ex presidente de la Asociación de Usuarios de Linux de Alicante, actualmente es el Manager Madrid de la Asociación Desarrolladores Web de España ADWE.Julián nos mostrará los conceptos básicos del SEO. Los aspectos más simples pero que deben estar presentes en nuestra mente si queremos optimizar un sitio existente o a la hora de plantear el desarrollo de un nuevo portal",
+            "twitter" : "julian_sanchez",
+            "website" : "http://www.jsanchez.es/"
+        },    
+        {
+            "id" : "andreskarp",
+            "name" : "Andres Karp",
+            "banner" : "act14.png",
+            "info" : "CEO/Founder en Dinamiclab. Presidente de ADWE(Asociación Desarrolladores Web de España). Strategic planner en SocialAndTics. Lleva más de 10 años en el mundo del diseño y desarrollo web. Trabajando en varias Agencias Multimedia. Empezando por el puesto de diseñador gráfico hasta el de product manager que ocupa hoy en día en Dinamiclab, empresa de la que es CEO y Fundador. En donde intenta día a día llevar la simplicidad y usabilidad a los portales web y a los dispositivos móviles. Otra de las cosas que le apasionan es crear y compartir conocimiento, por lo que el año pasado creo SocialAndTics una empresa de Formación y Eventos Tecnológicos. Desde la cuál imparte formación a centros en Alicante, Valencia, Castellón, Madrid y Murcia. Además colabora en muchos eventos de grandes dimensiones organizándolos o llevando la comunicación online. Es presidente de la Asociación Desarrolladores Web de España ADWE, donde intenta que la comunidad de desarrolladores web a nivel nacional se una en un movimiento que traiga consigo más prestigio a esta profesión y la mejora permanente mediante la formación a todos los asociados. Pero, sobre todo, recalca que lo más importante es la familia y la pasión por su trabajo.",
+            "twitter" : "andreskarp",
+            "website" : "http://www.andreskarp.es/"
+        },    
+        {
+            "id" : "gabrieldelmolino",
+            "name" : "Gabriel del Molino",
+            "banner" : "act14.png",
+            "info" : "Formador, consultor y asesor para empresas que quieren introducirse en la web 2.0 y las redes sociales. Fundador de CAMYNA (www.camyna.com), empresa dedicada a las NNTT. Organizador de eventos relacionados con las redes sociales (twitterllon y bloggellon)",
+            "twitter" : "gmolino",
+            "website" : "http://camyna.com/"
+        },
+        {
+            "id" : "antoniogarcia",
+            "name" : "Antonio Garcia Morte",
+            "banner" : "act14.png",
+            "info" : "Antonio García Morte es Ingeniero Electrónico y Máster de Comercio Internacional por ESIC, ha trabajado en consultoría en DMR Consulting (actual Everis) y el Grupo Z previamente a lanzar Cierzo Development, una empresa IT especializada en Social Media Marketing y tecnologías de recuperación de información. El año pasado Antonio recibió el premio Aster al mejor emprendedor de Aragón en el año 2009, es ponente habitual en foros y sesiones formativas relacionadas con la expendeduría, internet y las redes sociales. Antonio García Morte nos mostrará diferentes herramientas de monitorización de las redes sociales",
+            "twitter" : "",
+            "website" : ""
+        }    
+    ]
+}
+

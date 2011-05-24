@@ -1,0 +1,9 @@
+
+TODO : 
+
+* ICONS FOR CATEGORIES : 
+- Create an square icon per every catagory.
+- Icons size : 40x10.
+- Every category has a background color, and the category initials on it.
+- Place in /images/categories, with category id as name.
+
